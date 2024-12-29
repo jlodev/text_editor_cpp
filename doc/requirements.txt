@@ -1,0 +1,5 @@
+1. The application shall open and create a file with the specified name.
+2. The application shall allow to modify the file.
+3. The application shall use the console.
+4. The application shall delete the specified file.
+5. The application shall allow to undo or redo changes in an open file.
